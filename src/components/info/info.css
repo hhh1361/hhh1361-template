@@ -1,0 +1,28 @@
+.dropdown-menu, .dropdown-item{
+    width: 100%;
+}
+#dropdownMenuButton, .dropdown-menu, .dropdown-item{
+    width: 100%;
+    text-align: left;
+    background-color: rgba(243, 243, 243, 0.322);
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    color: gray;
+    box-shadow: none;
+}
+
+.input__data {
+    margin: 5px 0;
+}
+#btn-previous {
+    background: none;
+    border: none;
+    color: rgb(145, 145, 145);
+    font-weight: 600;
+}
+.green {
+    border: 1px solid green
+}
+.red {
+    border: 1px solid red
+}
